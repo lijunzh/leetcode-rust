@@ -1,2 +1,2 @@
 # leetcode-rust
-Learning Rust via leetcode chanllenge.
+Learning Rust via leetcode challenge.
